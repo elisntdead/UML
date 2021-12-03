@@ -19,7 +19,7 @@
 Диаграма прецедентов
 --------------------
   
-  ![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+  ![Диаграмма прецедентов](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_UseCases.png)
   
 На диаграмме отражены случаи использования программы
   
