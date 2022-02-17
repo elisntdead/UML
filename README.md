@@ -2,11 +2,11 @@
 Быстрая навигация
 --------------------
 
-[Диаграммы UML](https://github.com/elisntdead/UML/edit/main/README.md#диаграммы)
+[Диаграммы UML](https://github.com/elisntdead/UML/blob/main/README.md#диаграммы)
 
-[База данных](https://github.com/elisntdead/UML/edit/main/README.md#база-данных)
+[База данных](https://github.com/elisntdead/UML/blob/main/README.md#база-данных)
 
-[Формы](https://github.com/elisntdead/UML/edit/main/README.md#формы)
+[Формы](https://github.com/elisntdead/UML/blob/main/README.md#формы)
 
 <hr>
 В этом репозитории собраны UML-диаграммы проекта для реализации упрощенной работы с предоставленем клиентам различных услуг.
