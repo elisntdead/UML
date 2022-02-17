@@ -2,9 +2,12 @@
 Быстрая навигация
 --------------------
 
-[Диаграммы UML](https://github.com/elisntdead/UML/blob/main/README.md#Диаграмы)
+[Диаграммы UML](https://github.com/elisntdead/UML/edit/main/README.md#диаграммы)
 
-[База данных](https://github.com/elisntdead/UML/blob/main/README.md#База-Данных)
+[База данных](https://github.com/elisntdead/UML/edit/main/README.md#база-данных)
+
+[Формы](https://github.com/elisntdead/UML/edit/main/README.md#формы)
+
 <hr>
 В этом репозитории собраны UML-диаграммы проекта для реализации упрощенной работы с предоставленем клиентам различных услуг.
 Задача проекта ─ упростить и ускорить работу с различными элементами, с которыми работает организация.
@@ -23,7 +26,8 @@
 для клиента, простой способ самостоятельно отслеживать свои заказы
 <hr>
   
-## Диаграмы
+Диаграммы
+--------------------
   
 Диаграма прецедентов
 --------------------
@@ -63,10 +67,16 @@
   
 [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
   
-### База Данных
-  
+База Данных
+--------------------
 Схема базы данных
 --------------------
 ![Схема базы данных](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_BD_shema.png)
+  
+[Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
+  
+Формы
+--------------------
+Формы можно просмотреть в этом [файле](https://github.com/elisntdead/UML/blob/main/Forms/Cherkasov_Forms.bmpr), с помощью программы Balsamiq Mockups
   
 [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
