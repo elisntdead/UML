@@ -34,21 +34,29 @@
   
   ![Диаграмма прецедентов](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_UseCases.png)
   
+  [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
+  
   
 Диаграмма классов
 --------------------
   
   ![Диаграмма классов](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_Classes.png)
   
+  [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
+  
 Диаграмма состояний
   --------------------
   
   ![Диаграмма состояний](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_State.png)
   
+  [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
+  
 Диаграмма последовательности
 --------------------
   
   ![Диаграмма последовательности](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_Sequence.png)
+  
+  [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
   
 Диаграммы деятельности
 --------------------
@@ -57,15 +65,25 @@
   
 На первой диаграмме отражен процесс смены товара, во время того как заказ уже стал активным.
   
+  [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
+  
 ![Диаграмма деятельности (доставка)](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_ActivityDelivery.png)
   
 На второй диаграмме отражен процесс доставки товара.
+  
+  [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
 
 Диаграмма кооперации
 --------------------
 ![Диаграмма кооперации](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_Cooperation.png)
   
 [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
+  
+Диаграмма интерфейсов
+--------------------
+![Диаграмма интерфейсов](https://github.com/elisntdead/UML/blob/main/images/Cherkasov_Interface.png)
+  
+  [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)
   
 База Данных
 --------------------
