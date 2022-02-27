@@ -128,6 +128,26 @@ ORDER BY orderPrice DESC
 LIMIT 3;
 ```
 Три самых дорогих заказа.
+  
+```
+SELECT Offers.id, Offers.Name, SUM(OffersInOrder.amount) AS Total 
+FROM Offers INNER JOIN OffersInOrder ON OffersInOrder.id_offer = Offers.id
+INNER JOIN Orders ON Orders.id = OffersInOrder.id_order
+WHERE Orders.date between '2021/09/01' and '2021/10/01'
+GROUP BY Offers.id, Offers.Name
+ORDER BY Total DESC
+LIMIT 1
+```
+  Самый популярный заказ сентября
+  
+```
+SELECT Offers.id, Offers.name
+FROM Offers
+EXCEPT SELECT Offers.id, Offers.name
+FROM Offers INNER JOIN OffersInOrder ON OffersInOrder.id_offer = Offers.id
+INNER JOIN Orders ON Orders.id = OffersInOrder.id_order AND Orders.date BETWEEN '2021/09/01' AND '2021/10/01'
+```
+Заказы, не покупавшиеся в сентябре
 
 [Наверх](https://github.com/elisntdead/UML/blob/main/README.md#UML)  
   
