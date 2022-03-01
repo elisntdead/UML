@@ -1,3 +1,0 @@
-SELECT Orders.id AS OrderID, Employees.id AS ENPLOYEEID
-FROM Employees INNER JOIN Orders ON Employees.id = Orders.id_employee
-WHERE Employees.id <> 6;
