@@ -31,9 +31,7 @@
  [Диаграмма кооперации](https://github.com/elisntdead/UML_PartyService#диаграмма-кооперации)
   
  [Диаграмма интерфейсов](https://github.com/elisntdead/UML_PartyService#диаграмма-интерфейсов)
-  
-  
-[Диаграммы UML](https://github.com/elisntdead/UML/blob/main/README.md#диаграммы)
+ 
   
 Диаграммы
 --------------------
